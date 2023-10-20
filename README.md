@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adam!
 - 👀 I’m interested in game development and back-end programming.
-- 🌱 I’m currently learning gamedev in Java as well as in Unity.
-- 🚀 In the nearest future I plan to develop my first 2D game in Java and my first 3D game in Unity ;)
+- 🌱 I’m currently learning Spring Boot as well as Kotlin.
+- 🚀 In the nearest future I plan to develop my first fullstack mobile app ;) 
 
 
 <!---
