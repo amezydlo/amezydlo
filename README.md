@@ -1,10 +1,27 @@
-- 👋 Hi, I’m Adam!
-- 👀 I’m interested in game development and back-end programming.
-- 🌱 I’m currently learning Spring Boot as well as Kotlin.
-- 🚀 In the nearest future I plan to develop my first fullstack mobile app ;) 
+# 🌟 Hey there! I'm Adam 👋
 
+🔧 **Back-End Developer**
+🌱 Passionate about **lifelong learning**, crafting modular systems, and exploring the ever-evolving world of software development.
 
-<!---
-amezydlo/amezydlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 What I’m Working On
+- 💼 **Backend Development:** Building scalable and secure systems with **Spring Framework**, **Kotlin**, and **Java**.
+- 🌐 **Full-Stack Projects:** Combining **Spring Boot** with **React** to create powerful tools and applications.
+- 🔒 **Security Enthusiast:** Diving into **Spring Security** and modern practices for robust software protection.
+- 🛠️ Exploring **CI/CD**, **SOA**, and **Cloud Technologies** to deliver seamless and reliable solutions.
+
+---
+
+## 🛠️ Tools & Skills
+- **Languages:** Kotlin, Java, JavaScript, Python
+- **Frameworks:** Spring Boot, React
+- **DevOps & CI/CD:** Jenkins, Docker, Maven, Git, Bitbucket, Jira
+- **Interests:** Modular architecture, system design, and cutting-edge deployment pipelines
+- **Collaboration:** Fan of **Scrum** and agile methodologies.
+
+---
+
+## 🎮 Fun Facts
+- 🕹️ **Gamedev Enthusiast:** I dabble in game development when I find the time.
+- 🧠 **Lifelong Learner:** Physics, mathematics and science fuel my curiosity and inspire my problem-solving mindset.
