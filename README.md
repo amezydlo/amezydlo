@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adam!
 
-I'm a **junior software engineer** passionate about designing and building **distributed systems** and **reliable backend architectures** using **Java, Kotlin, and Spring Boot**.  
+I'm a **software engineer** passionate about designing and building **distributed systems** and **reliable backend architectures** using **Java, Kotlin, and Spring Boot**.  
 I enjoy working on systems that scale, automate, and integrate — from **microservices and CI/CD pipelines** to **modern application design**.
 
 - 🚀 Currently exploring **full-stack development** with Spring Boot and React.  
